@@ -1,0 +1,4 @@
+useless:
+    type:     rest
+    prefix:   /api
+    resource: App\Controller\ApiController
