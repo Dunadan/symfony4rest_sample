@@ -5,7 +5,6 @@ use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
- * @ORM\Entity
  * @ORM\Table(name="useless_entities")
  * @ORM\Entity(repositoryClass="App\Repository\UselessRepository")
  */
